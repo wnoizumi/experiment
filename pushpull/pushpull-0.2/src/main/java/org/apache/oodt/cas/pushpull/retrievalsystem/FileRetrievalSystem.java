@@ -68,7 +68,7 @@ import java.util.logging.Logger;
  *   
  *   	#Protocol factories per types (must have one for each protocol mention in protocolfactory.types -- the property must be name
  *    	# as such: protocolfactory.&lt;name-of-protocol-type&gt;
- *   	protocolfactory.ftp=&lt;path-to-java-protocolfactory-class&gt; (e.g. org.apache.oodt.cas.protocol.ftp.FtpClientFactory)
+ *   	protocolfactory.ftp=&lt;path-to-java-protocolfactory-class&gt; (e.g. org.apache.oodt.cas.pushpull.protocol.ftp.FtpClientFactory)
  *   	protocolfactory.http=&lt;path-to-java-protocolfactory-class&gt;
  *   	protocolfactory.https=&lt;path-to-java-protocolfactory-class&gt;
  *   	protocolfactory.sftp=&lt;path-to-java-protocolfactory-class&gt;

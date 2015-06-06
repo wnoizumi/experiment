@@ -24,9 +24,12 @@ import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+
+
+
 //OODT imports
 import org.apache.oodt.cas.metadata.util.PathUtils;
-import org.apache.oodt.cas.protocol.ProtocolFile;
+import org.apache.oodt.cas.pushpull.protocol.ProtocolFile;
 import org.apache.oodt.cas.pushpull.protocol.RemoteSiteFile;
 
 /**

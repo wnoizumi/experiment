@@ -18,15 +18,15 @@
 package org.apache.oodt.cas.pushpull.protocol;
 
 //OODT imports
-import org.apache.oodt.cas.protocol.Protocol;
-import org.apache.oodt.cas.protocol.ProtocolFactory;
-import org.apache.oodt.cas.protocol.ProtocolFile;
 import org.apache.oodt.cas.pushpull.protocol.RemoteSiteFile;
+import org.apache.oodt.cas.pushpull.protocol.auth.BasicAuthentication;
+import org.apache.oodt.cas.pushpull.protocol.exceptions.ProtocolException;
+import org.apache.oodt.cas.pushpull.protocol.util.ProtocolFileFilter;
 import org.apache.oodt.cas.pushpull.config.ProtocolInfo;
-import org.apache.oodt.cas.protocol.auth.BasicAuthentication;
-import org.apache.oodt.cas.protocol.exceptions.ProtocolException;
-import org.apache.oodt.cas.protocol.util.ProtocolFileFilter;
 import org.apache.oodt.cas.pushpull.exceptions.RemoteConnectionException;
+
+
+
 
 //JDK imports
 import java.io.File;

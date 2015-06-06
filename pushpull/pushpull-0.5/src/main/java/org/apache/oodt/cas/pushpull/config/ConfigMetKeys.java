@@ -60,9 +60,9 @@ public interface ConfigMetKeys {
 
     public static final String MET_FILE_EXT = "org.apache.oodt.cas.pushpull.met.file.extension";
 
-    public static final String PROTOCOL_TIMEOUT_MS = "org.apache.oodt.cas.pushpull.protocol.timeout.milliseconds";
+    public static final String PROTOCOL_TIMEOUT_MS = "org.apache.oodt.cas.pushpull.protocol_old.timeout.milliseconds";
 
-    public static final String PROTOCOL_PAGE_SIZE = "org.apache.oodt.cas.pushpull.protocol.page_size";
+    public static final String PROTOCOL_PAGE_SIZE = "org.apache.oodt.cas.pushpull.protocol_old.page_size";
 
     public static final String DATA_FILE_BASE_STAGING_AREA = "org.apache.oodt.cas.pushpull.data.files.base.staging.area";
 

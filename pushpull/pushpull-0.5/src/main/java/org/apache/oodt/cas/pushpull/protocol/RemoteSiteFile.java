@@ -18,7 +18,6 @@
 package org.apache.oodt.cas.pushpull.protocol;
 
 //OODT imports
-import org.apache.oodt.cas.protocol.ProtocolFile;
 
 /**
  *

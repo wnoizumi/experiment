@@ -31,13 +31,16 @@ import org.apache.oodt.cas.pushpull.filerestrictions.FileRestrictions;
 import org.apache.oodt.cas.pushpull.filerestrictions.Parser;
 import org.apache.oodt.cas.pushpull.filerestrictions.VirtualFile;
 import org.apache.oodt.cas.pushpull.filerestrictions.VirtualFileStructure;
-import org.apache.oodt.cas.protocol.ProtocolFile;
-import org.apache.oodt.cas.protocol.util.ProtocolFileFilter;
+import org.apache.oodt.cas.pushpull.protocol.ProtocolFile;
 import org.apache.oodt.cas.pushpull.protocol.ProtocolPath;
 import org.apache.oodt.cas.pushpull.protocol.RemoteSite;
 import org.apache.oodt.cas.pushpull.protocol.RemoteSiteFile;
+import org.apache.oodt.cas.pushpull.protocol.util.ProtocolFileFilter;
 import org.apache.oodt.cas.pushpull.retrievalsystem.DataFileToPropFileLinker;
 import org.apache.oodt.cas.pushpull.retrievalsystem.FileRetrievalSystem;
+
+
+
 
 //JDK imports
 import java.io.File;

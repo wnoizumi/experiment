@@ -19,10 +19,11 @@
 package org.apache.oodt.cas.pushpull.config;
 
 //OODT imports
-import org.apache.oodt.cas.protocol.ProtocolFactory;
 import org.apache.oodt.cas.pushpull.exceptions.ConfigException;
+import org.apache.oodt.cas.pushpull.protocol.ProtocolFactory;
 import org.apache.oodt.cas.metadata.util.PathUtils;
 import org.apache.oodt.commons.xml.XMLUtils;
+
 
 //JDK imports
 import java.io.File;
@@ -31,6 +32,7 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;

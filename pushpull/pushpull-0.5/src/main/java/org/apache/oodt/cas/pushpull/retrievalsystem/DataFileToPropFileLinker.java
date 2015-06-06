@@ -25,7 +25,8 @@ import java.util.LinkedList;
 import java.util.Map.Entry;
 
 //OODT imports
-import org.apache.oodt.cas.protocol.ProtocolFile;
+
+import org.apache.oodt.cas.pushpull.protocol.ProtocolFile;
 
 /**
  * 

@@ -29,10 +29,10 @@ import org.apache.oodt.cas.pushpull.exceptions.ThreadEvaluatorException;
 import org.apache.oodt.cas.pushpull.exceptions.ToManyFailedDownloadsException;
 import org.apache.oodt.cas.pushpull.exceptions.UndefinedTypeException;
 import org.apache.oodt.cas.pushpull.filerestrictions.renamingconventions.RenamingConvention;
-import org.apache.oodt.cas.protocol.exceptions.ProtocolException;
-import org.apache.oodt.cas.protocol.util.ProtocolFileFilter;
-import org.apache.oodt.cas.protocol.Protocol;
-import org.apache.oodt.cas.protocol.ProtocolFile;
+import org.apache.oodt.cas.pushpull.protocol.exceptions.ProtocolException;
+import org.apache.oodt.cas.pushpull.protocol.util.ProtocolFileFilter;
+import org.apache.oodt.cas.pushpull.protocol.Protocol;
+import org.apache.oodt.cas.pushpull.protocol.ProtocolFile;
 import org.apache.oodt.cas.pushpull.protocol.ProtocolHandler;
 import org.apache.oodt.cas.pushpull.protocol.RemoteSite;
 import org.apache.oodt.cas.pushpull.protocol.RemoteSiteFile;
@@ -74,7 +74,7 @@ import com.google.common.base.Strings;
  *
  *   	#Protocol factories per types (must have one for each protocol mention in protocolfactory.types -- the property must be name
  *    	# as such: protocolfactory.&lt;name-of-protocol-type&gt;
- *   	protocolfactory.ftp=&lt;path-to-java-protocolfactory-class&gt; (e.g. org.apache.oodt.cas.protocol.ftp.FtpClientFactory)
+ *   	protocolfactory.ftp=&lt;path-to-java-protocolfactory-class&gt; (e.g. org.apache.oodt.cas.pushpull.protocol.ftp.FtpClientFactory)
  *   	protocolfactory.http=&lt;path-to-java-protocolfactory-class&gt;
  *   	protocolfactory.https=&lt;path-to-java-protocolfactory-class&gt;
  *   	protocolfactory.sftp=&lt;path-to-java-protocolfactory-class&gt;
@@ -283,7 +283,7 @@ public class FileRetrievalSystem {
     }
 
     public void changeToRoot(RemoteSite remoteSite) throws ProtocolException,
-            MalformedURLException, org.apache.oodt.cas.protocol.exceptions.ProtocolException {
+            MalformedURLException, org.apache.oodt.cas.pushpull.protocol.exceptions.ProtocolException {
         if (validate(remoteSite))
             protocolHandler.cdToROOT(protocolHandler
                     .getAppropriateProtocolBySite(remoteSite, true));
