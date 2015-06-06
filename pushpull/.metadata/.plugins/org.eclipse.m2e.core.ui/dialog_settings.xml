@@ -14,6 +14,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/willian/experiment/pushpull"/>
 			<item value="/home/willian/experiment/pushpull/protocol-0.5"/>
 			<item value="/home/willian/Repositories/oodt/0.8/pushpull"/>
 			<item value="/home/willian/Repositories/oodt/0.5/pushpull"/>
