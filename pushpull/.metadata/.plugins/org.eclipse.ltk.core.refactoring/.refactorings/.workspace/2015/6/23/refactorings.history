@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete 3 resources" deleteContents="false" description="Delete 3 resources" element1="/cas-pushpull-0.2" element2="/cas-pushpull-0.5" element3="/cas-pushpull-0.8" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1433556754766"/>&#x0A;<refactoring comment="Delete 5 resources" deleteContents="false" description="Delete 5 resources" element1="/cas-protocol-api" element2="/cas-protocol-ftp" element3="/cas-protocol-http" element4="/cas-protocol-imaps" element5="/cas-protocol-sftp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="5" stamp="1433557442941"/>
+</session>

@@ -1,0 +1,7 @@
+ComponentsSource=Package Structure
+HierarchicalThreshold=1
+IntraClassThreshold=1
+IntraComponentThreshold=1
+IntraMethodThreshold=1
+SaveToFile=true
+eclipse.preferences.version=1

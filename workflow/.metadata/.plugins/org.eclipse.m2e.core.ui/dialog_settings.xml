@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/willian/Repositories/oodt/0.8/workflow"/>
+			<item value="/home/willian/Repositories/oodt/0.2/workflow"/>
+			<item value="/home/willian/Repositories/oodt/0.5/workflow"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]-[version]"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+</section>

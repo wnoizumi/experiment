@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/willian/.m2/repository/com/jcraft/jsch/0.1.42/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="/home/willian/.m2/repository/org/apache/oodt/cas-filemgr/0.2/cas-filemgr-0.2.jar"/>
+	<classpathentry kind="lib" path="/home/willian/.m2/repository/org/globus/cog-jglobus/1.8.0/cog-jglobus-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/willian/.m2/repository/org/apache/tika/tika-core/0.8/tika-core-0.8.jar"/>
+	<classpathentry kind="lib" path="/home/willian/.m2/repository/org/apache/tika/tika-parsers/0.8/tika-parsers-0.8.jar"/>
+	<classpathentry kind="lib" path="/home/willian/.m2/repository/commons-net/commons-net/1.4.0/commons-net-1.4.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/willian/.m2/repository/org/apache/oodt/cas-metadata/0.2/cas-metadata-0.2.jar"/>
+	<classpathentry kind="lib" path="/home/willian/.m2/repository/org/apache/oodt/oodt-commons/0.2/oodt-commons-0.2.jar"/>
+	<classpathentry kind="lib" path="/home/willian/.m2/repository/org/apache/commons/commons-compress/1.1/commons-compress-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/willian/.m2/repository/commons-codec/commons-codec/1.2/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/willian/.m2/repository/org/apache/geronimo/javamail/geronimo-javamail_1.4_mail/1.8.1/geronimo-javamail_1.4_mail-1.8.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 3 resources" deleteContents="false" description="Delete 3 resources" element1="/cas-workflow-0.2" element2="/cas-workflow-0.5" element3="/cas-workflow-0.8" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1433556701335"/>
+</session>
