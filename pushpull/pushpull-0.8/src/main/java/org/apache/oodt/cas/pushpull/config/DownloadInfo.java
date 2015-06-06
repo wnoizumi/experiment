@@ -19,10 +19,14 @@
 package org.apache.oodt.cas.pushpull.config;
 
 //OODT imports
-import org.apache.oodt.cas.pushpull.protocol.RemoteSite;
+
+
+
 
 //JDK imports
 import java.io.File;
+
+import org.apache.oodt.cas.pushpull.protocol.RemoteSite;
 
 /**
  * 

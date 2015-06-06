@@ -19,11 +19,15 @@
 package org.apache.oodt.cas.pushpull.filerestrictions;
 
 //OODT imports
-import org.apache.oodt.cas.pushpull.protocol.ProtocolPath;
+
+
+
 
 //JDK imports
 import java.io.InputStream;
 import java.util.LinkedList;
+
+import org.apache.oodt.cas.pushpull.protocol.ProtocolPath;
 
 
 /**

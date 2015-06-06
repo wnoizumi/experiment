@@ -31,11 +31,6 @@
 	<classpathentry kind="lib" path="lib/cas-cli-0.5.jar"/>
 	<classpathentry kind="lib" path="lib/cas-filemgr-0.5.jar"/>
 	<classpathentry kind="lib" path="lib/cas-metadata-0.5.jar"/>
-	<classpathentry kind="lib" path="lib/cas-protocol-api-0.5.jar"/>
-	<classpathentry kind="lib" path="lib/cas-protocol-ftp-0.5.jar"/>
-	<classpathentry kind="lib" path="lib/cas-protocol-http-0.5.jar"/>
-	<classpathentry kind="lib" path="lib/cas-protocol-imaps-0.5.jar"/>
-	<classpathentry kind="lib" path="lib/cas-protocol-sftp-0.5.jar"/>
 	<classpathentry kind="lib" path="lib/cglib-2.1_3.jar"/>
 	<classpathentry kind="lib" path="lib/cog-jglobus-1.8.0.jar"/>
 	<classpathentry kind="lib" path="lib/commons-cli-1.2.jar"/>
