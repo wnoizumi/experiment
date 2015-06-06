@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/willian/experiment/workflow/workflow-0.8"/>
+			<item value="/home/willian/experiment/workflow/workflow-0.5"/>
+			<item value="/home/willian/experiment/workflow/workflow-0.2"/>
 			<item value="/home/willian/Repositories/oodt/0.8/workflow"/>
 			<item value="/home/willian/Repositories/oodt/0.2/workflow"/>
 			<item value="/home/willian/Repositories/oodt/0.5/workflow"/>

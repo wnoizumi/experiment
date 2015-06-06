@@ -1,21 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-  <name>cas-workflow</name>
-  <comment>The workflow management component of a Catalog and Archive Service. This component
+	<name>cas-workflow</name>
+	<comment>The workflow management component of a Catalog and Archive Service. This component
      purposefully separates workflow repositories and workflow engines standard interfaces, and
      provides some out of the box backend implementations of them (including one based
      on the javax.sql.DataSource interface). This component provides everything that you need
      to execute workflows, and science processing pipelines.</comment>
-  <projects/>
-  <buildSpec>
-    <buildCommand>
-      <name>org.eclipse.jdt.core.javabuilder</name>
-    </buildCommand>
-    <buildCommand>
-      <name>org.eclipse.m2e.core.maven2Builder</name>
-    </buildCommand>
-  </buildSpec>
-  <natures>
-    <nature>org.eclipse.jdt.core.javanature</nature>
-    <nature>org.eclipse.m2e.core.maven2Nature</nature>
-  </natures>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
 </projectDescription>

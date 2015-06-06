@@ -98,3 +98,40 @@
 2015-06-05 23:23:58,130 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-protocol-http:0.5 @ /home/willian/experiment/pushpull/protocol-0.5/http/pom.xml.
 2015-06-05 23:23:58,220 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-protocol-imaps:0.5 @ /home/willian/experiment/pushpull/protocol-0.5/imaps/pom.xml.
 2015-06-05 23:23:58,299 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-protocol-sftp:0.5 @ /home/willian/experiment/pushpull/protocol-0.5/sftp/pom.xml.
+2015-06-05 23:34:33,580 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-pushpull:0.5 @ /home/willian/experiment/pushpull/pushpull-0.5/pom.xml.
+2015-06-05 23:34:34,169 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-pushpull:0.8 @ /home/willian/experiment/pushpull/pushpull-0.8/pom.xml.
+2015-06-05 23:34:35,272 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-pushpull:0.2 @ /home/willian/experiment/pushpull/pushpull-0.2/pom.xml.
+2015-06-05 23:34:36,281 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pushpull-0.2/src/main/java
+2015-06-05 23:34:36,282 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pushpull-0.2/src/main/resources
+2015-06-05 23:34:36,283 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pushpull-0.2/src/test
+2015-06-05 23:34:36,882 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pushpull-0.8/src/main/java
+2015-06-05 23:34:36,882 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pushpull-0.8/src/main/resources
+2015-06-05 23:34:36,888 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pushpull-0.8/src/test
+2015-06-05 23:34:36,889 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /pushpull-0.8/src/test/resources overlaps with sources folder /pushpull-0.8/src/test
+2015-06-05 23:34:36,969 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-pushpull:0.5 @ /home/willian/experiment/pushpull/pushpull-0.5/pom.xml.
+2015-06-05 23:34:37,072 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pushpull-0.5/src/main/java
+2015-06-05 23:34:37,072 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /pushpull-0.5/src/main/resources overlaps with sources folder /pushpull-0.5/src/main/resources
+2015-06-05 23:34:37,074 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pushpull-0.5/src/test
+2015-06-05 23:34:37,316 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 4 sec
+2015-06-05 23:34:37,585 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-pushpull:0.8 @ /home/willian/experiment/pushpull/pushpull-0.8/pom.xml.
+2015-06-05 23:34:38,371 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-pushpull:0.2 @ /home/willian/experiment/pushpull/pushpull-0.2/pom.xml.
+2015-06-05 23:34:39,549 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-pushpull:0.2 @ /home/willian/experiment/pushpull/pushpull-0.2/pom.xml.
+2015-06-05 23:34:40,957 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 23:34:40,964 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2015-06-05 23:34:40,975 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 23:34:40,975 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/willian/experiment/pushpull/pushpull-0.5/src/test/resources
+2015-06-05 23:34:41,872 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 23:34:41,874 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2015-06-05 23:34:41,883 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 23:34:41,883 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-05 23:34:42,758 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-pushpull:0.5 @ /home/willian/experiment/pushpull/pushpull-0.5/pom.xml.
+2015-06-05 23:34:42,974 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-pushpull:0.8 @ /home/willian/experiment/pushpull/pushpull-0.8/pom.xml.
+2015-06-05 23:34:43,171 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.oodt:cas-pushpull:0.2 @ /home/willian/experiment/pushpull/pushpull-0.2/pom.xml.
+2015-06-05 23:34:44,308 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 23:34:44,309 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-05 23:34:44,310 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 23:34:44,310 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/willian/experiment/pushpull/pushpull-0.5/src/test/resources
+2015-06-05 23:34:44,568 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 23:34:44,569 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-05 23:34:44,595 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 23:34:44,595 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
